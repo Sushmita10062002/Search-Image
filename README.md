@@ -1,2 +1,2 @@
 # Search-Image
-Image search using pixabay api
+Image search using pixabay api and react
