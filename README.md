@@ -1,2 +1,2 @@
 # Search-Image
-Created with CodeSandbox
+Image search using pixabay api
